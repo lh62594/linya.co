@@ -20,7 +20,7 @@ let welcome = []
 let paragraph = []
 
 let textx = 350 // x position at which the text will start
-let texty = 400 // y position at which the text will fall
+let texty = 350 // y position at which the text will fall
 
 let mouse = {
   x: 0,
